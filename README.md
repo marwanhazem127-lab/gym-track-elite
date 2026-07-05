@@ -66,9 +66,9 @@ This project was developed by **Marwan Hazem**.
 
 Replit AI was used as a development assistant to speed up coding and improve productivity. The application structure, feature implementation, customization, testing, and final decisions were completed by the author.
 
-## Author
+## Authors
 
-**Marwan Hazem**
+**Marwan Hazem&mostafa mohamed**
 
 GitHub: https://github.com/marwanhazem127-lab
 
