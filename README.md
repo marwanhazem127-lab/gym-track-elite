@@ -2,20 +2,30 @@
 
 Gym Track Elite is a modern fitness tracking Progressive Web App (PWA) that helps users manage their workouts, monitor body weight, track daily hydration, and stay consistent with structured training programs. The application also includes an AI fitness assistant for general training and fitness guidance.
 
-## Features
+---
 
-- 🔐 Secure user authentication
-- 🏋️ Workout logging and tracking
-- 📅 Structured training programs
-- 🎥 Exercise demonstrations
-- 📈 Body weight tracking
-- 💧 Daily hydration tracking
-- 📊 Workout history and progress
+## 📖 Overview
+
+Gym Track Elite is a comprehensive fitness management application built with modern web technologies. It enables users to log workouts, monitor body weight, track hydration, and follow structured training programs through a responsive and user-friendly interface. The application also integrates an AI Fitness Assistant to provide general fitness and workout guidance.
+
+---
+
+## ✨ Features
+
+- 🔐 Secure User Authentication
+- 🏋️ Workout Logging & Tracking
+- 📅 Structured Training Programs
+- 🎥 Exercise Demonstrations
+- 📈 Body Weight Tracking
+- 💧 Daily Hydration Tracking
+- 📊 Workout History & Progress Analytics
 - 🤖 AI Fitness Assistant
-- 📱 Responsive design
+- 📱 Fully Responsive Design
 - ⚡ Progressive Web App (PWA)
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 - React
 - TypeScript
@@ -27,7 +37,9 @@ Gym Track Elite is a modern fitness tracking Progressive Web App (PWA) that help
 - OpenRouter API
 - Framer Motion
 
-## Getting Started
+---
+
+## 🚀 Getting Started
 
 Clone the repository:
 
@@ -41,37 +53,53 @@ Install dependencies:
 pnpm install
 ```
 
-Run the development server:
+Start the development server:
 
 ```bash
 pnpm dev
 ```
 
-## Live Demo
+---
 
-🌐 **https://gym-track-elite--marohazem227.replit.app**
+## 🌐 Live Demo
 
-## Future Improvements
-
-- Nutrition tracking
-- Workout analytics
-- Custom workout plans
-- Push notifications
-- Smart goals
-- Wearable device integration
-
-## Development
-
-This project was developed by **Marwan Hazem**.
-
-Replit AI was used as a development assistant to speed up coding and improve productivity. The application structure, feature implementation, customization, testing, and final decisions were completed by the author.
-
-## Authors
-
-**Marwan Hazem&mostafa mohamed**
-
-GitHub: https://github.com/marwanhazem127-lab
+https://gym-track-elite--marohazem227.replit.app
 
 ---
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+## 🔮 Future Improvements
+
+- Nutrition Tracking
+- Workout Analytics
+- Custom Workout Plans
+- Push Notifications
+- Smart Goals
+- Wearable Device Integration
+
+---
+
+## 👨‍💻 Development
+
+This project was developed collaboratively by **Marwan Hazem** and **Mostafa Mohamed**.
+
+Replit AI was used as a development assistant to accelerate development. The project architecture, feature implementation, testing, customization, debugging, and final decisions were completed by the project authors.
+
+---
+
+## 👥 Authors
+
+### Marwan Hazem
+GitHub: https://github.com/marwanhazem127-lab
+
+### Mostafa Mohamed
+GitHub: https://github.com/mostafa-hashem-zayed
+
+---
+
+## 📄 License
+
+This project was created for educational purposes.
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
